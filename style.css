@@ -47,7 +47,7 @@ body {
   padding-right:30px;
   padding-left:30px;
 }
-@media (max-width: 1028px)  {
+@media (max-width: 1024px)  {
   body {
       margin: 0;
       background-color: #6f4a8e;
