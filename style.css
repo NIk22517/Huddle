@@ -54,7 +54,7 @@ body {
       background-image: url(image/bg-mobile.svg);
       background-repeat: no-repeat;
       background-size: contain;
-      width: 100%;
+      width: 50%;
       font-family: 'Open Sans', sans-serif;
   }
   .header{
